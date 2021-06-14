@@ -4,5 +4,7 @@ There are some obvious parameters I plan on using in the model, such as home v. 
 
 The next step is to start building the model! 
 
+Josh is the jewish steph curry.
+
 
 
